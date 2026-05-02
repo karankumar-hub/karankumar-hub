@@ -110,6 +110,10 @@
 ## ⚡ Fun Fact
 I enjoy building real-world hardware systems and turning concepts into working prototypes 🚀
 
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=karankumar-hub&color=blue&style=for-the-badge)
+
 <!--
 **karankumar-hub/karankumar-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
