@@ -102,7 +102,7 @@
 ## 📫 Connect with Me
 - 📧 Email: karangupta11006@gmail.com  
 - 📱 Phone: +91 7905926475  
-- 🔗 LinkedIn: (Add your LinkedIn link)  
+- 🔗 LinkedIn: https://www.linkedin.com/in/karan-kumar0110
 - 💻 GitHub: https://github.com/karankumar-hub  
 
 ---
