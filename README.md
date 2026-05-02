@@ -110,20 +110,6 @@
 ## ⚡ Fun Fact
 I enjoy building real-world hardware systems and turning concepts into working prototypes 🚀
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karankumar-hub&theme=tokyo-night"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/karankumar-hub/karankumar-hub/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
 <!--
 **karankumar-hub/karankumar-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
